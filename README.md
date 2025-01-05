@@ -8,6 +8,7 @@ EyeTrackMouse is a Python project that allows you to control your mouse cursor u
 - **Mouse Movement**: Moves the cursor based on eye coordinates.
 - **Blink Detection**: Left-click functionality triggered by blinking.
 - **Easy Setup**: Requires only a webcam and Python.
+- **Exit Shortcut**: Press Q to quit the application.
 
 ## Installation
 1. Clone the repository:
